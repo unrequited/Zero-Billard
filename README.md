@@ -54,4 +54,4 @@ Aufbau:   (RFC!)
 4 Volle, 
 4 Halbe, 
 Joker in der Mitte, 
-Symetischer Aufbau
+Symetrischer Aufbau
