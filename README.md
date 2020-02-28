@@ -24,7 +24,8 @@ Foul:
 - Banden-Foul 
 - Falscher Ball angespielt
 
-Bei einem Foul erhält der Gegner Ball in Hand und beginnt mit den Punkten für den 2. Ball.
+Bei einem Foul erhält der Gegner Ball in Hand und beginnt die direkt folgende Aufnahme mit den Punkten für den 2. Ball.
+Wird nichts gelocht, verfällt der Punktevorteil.
 
 
 Verschiedene Bälle und Bedeutung und jeweilige Regeln:
