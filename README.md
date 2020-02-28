@@ -9,9 +9,10 @@ Bei korrektem Lochen ergibt es:
 1. Ball:  0pt
 2. Ball:  1pt
 3. Ball:  2pt
-4. Ball:  4pt
-  Dann 8, 16, 32, 64 etc…
-  (Nicht addiert, sondern á Serie)
+4. Ball:  4pt 
+  
+Dann 8, 16, 32, 64 etc…
+(Nicht addiert, sondern á Serie)
   
 Wer acht Bälle* hintereinander locht, bzw. 64 Punkte in einer Serie macht, hat das Spiel gewonnen. (RFC!)
 
