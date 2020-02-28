@@ -42,8 +42,9 @@ Optional: (RFC!)
 Sobald auf die zweite Gruppe Bälle gespielt wird, beginnt der jeweils nach Punkten unterlegene Spieler mit Level 2.
 
 Letzter JokerBall:
-Sind alle Bälle der beiden Gruppen korrekt versenkt, kommt es bei der letzten auf dem Tisch verbleibenden 8 zu maximal einem Spielerwechsel. Entweder beendet der Spieler an der Reihe das Spiel mit der letzten 8, oder der Gegner hat noch einen letzten Versuch. Verschießt dieser Spieler, endet das Spiel mit dem Ball auf dem Tisch.
-(RFC!) Ausnahme: Wenn im Moment der des Spiels auf die letzte Kugel ein Punkteunterschied von nur einem Punkt besteht. Dann endet das Spiel sofort. 
+Sind alle Bälle der beiden Gruppen korrekt versenkt, kommt es bei der letzten auf dem Tisch verbleibenden 8 zu maximal einem Spielerwechsel. Entweder beendet der Spieler an der Reihe das Spiel mit der letzten 8, oder der Gegner hat noch einen letzten Versuch. Verschießt dieser Spieler, endet das Spiel mit dem Ball auf dem Tisch. 
+(RFC!) Ausnahme: Wenn im Moment der des Spiels auf die letzte Kugel ein Punkteunterschied von nur einem Punkt besteht. Dann endet das Spiel sofort. ODER: zählt zwei Punkte? 
+(Sollte nach Möglichkeit keinen Gleichstand ergeben dürfen, und kein endloses BlackBallGame) 
 
 Ende:
 Der Spieler mit dem höheren Punktestand gewinnt. 
